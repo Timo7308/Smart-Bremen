@@ -160,15 +160,7 @@ The interdisciplinary structure required coordination between technical developm
 
 The project poster provides an overview of the concept, implementation, and project results.
 
-[View Smart Bremen Poster](./assets/smart-bremen-poster.png)
-
----
-
-## 📄 Project Report
-
-A detailed project report covering the methodology, implementation process, challenges, results, and recommendations is available in the repository.
-
-[View Smart Bremen Project Report](./docs/Smart-Bremen-Report.pdf)
+[View Smart Bremen Poster](./docs/smart-bremen-poster.png)
 
 ---
 
